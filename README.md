@@ -1,10 +1,6 @@
 # Parfumeshop_Alexia
 
 
-Certainly! Here's the modified **README** reflecting the changes you described, where everything is saved in CSV files instead of a database:
-
----
-
 # Alexia Perfume Shop (CSV Version)
 
 Welcome to the **Alexia Perfume Shop** project! This is a simple e-commerce web application where users can browse, purchase, and manage perfumes. This version of the app saves data (clients, products, contact forms, and shopping baskets) in CSV files instead of using a database. 
